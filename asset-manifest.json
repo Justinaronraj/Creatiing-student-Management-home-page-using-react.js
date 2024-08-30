@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Creatiing-student-Management-home-page-using-react.js/static/css/main.6fce3d14.css",
+    "main.js": "/Creatiing-student-Management-home-page-using-react.js/static/js/main.c11edf20.js",
+    "static/js/453.5342772d.chunk.js": "/Creatiing-student-Management-home-page-using-react.js/static/js/453.5342772d.chunk.js",
+    "index.html": "/Creatiing-student-Management-home-page-using-react.js/index.html",
+    "main.6fce3d14.css.map": "/Creatiing-student-Management-home-page-using-react.js/static/css/main.6fce3d14.css.map",
+    "main.c11edf20.js.map": "/Creatiing-student-Management-home-page-using-react.js/static/js/main.c11edf20.js.map",
+    "453.5342772d.chunk.js.map": "/Creatiing-student-Management-home-page-using-react.js/static/js/453.5342772d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fce3d14.css",
+    "static/js/main.c11edf20.js"
+  ]
+}
